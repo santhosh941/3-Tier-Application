@@ -20,7 +20,7 @@ Auto Scaling Group of EC2 instances running Nginx web servers.
 
 Application Load Balancer (ALB) distributes incoming traffic across multiple EC2 instances in different Availability Zones.
 
-Amazon EFS for shared storage across EC2 instances (configs, plugins, XML, CSS, etc.). 
+Amazon EFS for shared storage across EC2 instances (configs, plugins, XML, CSS, etc.). (steps pending)
 
 Database Layer (Data Storage)
 
